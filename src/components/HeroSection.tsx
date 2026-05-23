@@ -61,7 +61,7 @@ export default function HeroSection() {
             className="font-semibold text-lg tracking-wide"
             onClick={() => scrollToSection("#join")}
           >
-            Присоединиться
+            Далее
           </LiquidButton>
         </div>
       </div>
